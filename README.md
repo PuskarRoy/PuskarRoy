@@ -51,14 +51,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/<your-profile>
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/puskarroy/
+- 📧 Email: roypuskar2003@gmail.com
 
 ---
 
